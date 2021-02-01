@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Louelkadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=louelkadi&show_icons=true&title_color=3ea6ff&text_color=c9d1d9&icon_color=1f6feb&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Louelkadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=louelkadi&show_icons=true&title_color=3ea6ff&text_color=c9d1d9&icon_color=1f6feb&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/louelkadi)
 
 <!--
 
