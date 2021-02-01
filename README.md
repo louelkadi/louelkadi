@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=louelkadi&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=louelkadi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <!--
 **louelkadi/louelkadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
